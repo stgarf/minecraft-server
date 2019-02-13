@@ -11,7 +11,7 @@ EXPOSE 25565
 EXPOSE 33434
 
 ENV EULA true
-ENV VERSION "1.10.2"
+ENV VERSION "1.13.2"
 
 
 COPY docker-entrypoint.sh /
